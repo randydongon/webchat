@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/webchat/static/css/main.427aa756.chunk.css",
-    "main.js": "/webchat/static/js/main.dcfd9c76.chunk.js",
-    "main.js.map": "/webchat/static/js/main.dcfd9c76.chunk.js.map",
+    "main.js": "/webchat/static/js/main.db3f1ea0.chunk.js",
+    "main.js.map": "/webchat/static/js/main.db3f1ea0.chunk.js.map",
     "runtime-main.js": "/webchat/static/js/runtime-main.627c0367.js",
     "runtime-main.js.map": "/webchat/static/js/runtime-main.627c0367.js.map",
     "static/css/2.fddaa3a5.chunk.css": "/webchat/static/css/2.fddaa3a5.chunk.css",
     "static/js/2.6cc8d643.chunk.js": "/webchat/static/js/2.6cc8d643.chunk.js",
     "static/js/2.6cc8d643.chunk.js.map": "/webchat/static/js/2.6cc8d643.chunk.js.map",
     "index.html": "/webchat/index.html",
-    "precache-manifest.47af5db6034fa442ce20763fc44961a5.js": "/webchat/precache-manifest.47af5db6034fa442ce20763fc44961a5.js",
+    "precache-manifest.13a9b54776fd9864d7b75fe068f549ac.js": "/webchat/precache-manifest.13a9b54776fd9864d7b75fe068f549ac.js",
     "service-worker.js": "/webchat/service-worker.js",
     "static/css/2.fddaa3a5.chunk.css.map": "/webchat/static/css/2.fddaa3a5.chunk.css.map",
     "static/css/main.427aa756.chunk.css.map": "/webchat/static/css/main.427aa756.chunk.css.map",
@@ -23,6 +23,6 @@
     "static/css/2.fddaa3a5.chunk.css",
     "static/js/2.6cc8d643.chunk.js",
     "static/css/main.427aa756.chunk.css",
-    "static/js/main.dcfd9c76.chunk.js"
+    "static/js/main.db3f1ea0.chunk.js"
   ]
 }
