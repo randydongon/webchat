@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/webchat/static/css/main.427aa756.chunk.css",
+    "main.js": "/webchat/static/js/main.e0312459.chunk.js",
+    "main.js.map": "/webchat/static/js/main.e0312459.chunk.js.map",
+    "runtime-main.js": "/webchat/static/js/runtime-main.627c0367.js",
+    "runtime-main.js.map": "/webchat/static/js/runtime-main.627c0367.js.map",
+    "static/css/2.fddaa3a5.chunk.css": "/webchat/static/css/2.fddaa3a5.chunk.css",
+    "static/js/2.6cc8d643.chunk.js": "/webchat/static/js/2.6cc8d643.chunk.js",
+    "static/js/2.6cc8d643.chunk.js.map": "/webchat/static/js/2.6cc8d643.chunk.js.map",
+    "index.html": "/webchat/index.html",
+    "precache-manifest.ea176d4cca95c4f7e45256c11e77f7bc.js": "/webchat/precache-manifest.ea176d4cca95c4f7e45256c11e77f7bc.js",
+    "service-worker.js": "/webchat/service-worker.js",
+    "static/css/2.fddaa3a5.chunk.css.map": "/webchat/static/css/2.fddaa3a5.chunk.css.map",
+    "static/css/main.427aa756.chunk.css.map": "/webchat/static/css/main.427aa756.chunk.css.map",
+    "static/js/2.6cc8d643.chunk.js.LICENSE.txt": "/webchat/static/js/2.6cc8d643.chunk.js.LICENSE.txt",
+    "static/media/avaicon.jpg": "/webchat/static/media/avaicon.9b5a702d.jpg",
+    "static/media/gloriya.jpg": "/webchat/static/media/gloriya.6c95cde8.jpg",
+    "static/media/quezon.jpg": "/webchat/static/media/quezon.e8997b82.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.627c0367.js",
+    "static/css/2.fddaa3a5.chunk.css",
+    "static/js/2.6cc8d643.chunk.js",
+    "static/css/main.427aa756.chunk.css",
+    "static/js/main.e0312459.chunk.js"
+  ]
+}
