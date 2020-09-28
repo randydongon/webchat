@@ -1,0 +1,14 @@
+.renderuser__div {
+}
+
+.renderuser__menu {
+  display: flex !important;
+  position: absolute !important;
+  right: 0 !important;
+  top: 10vh !important;
+}
+
+.renderuser__header {
+  border-bottom: 1px solid #eee;
+  padding: 0.5rem 1rem;
+}

@@ -1,0 +1,77 @@
+.container-fluid {
+  object-fit: contain;
+}
+
+.lightbox_container {
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  z-index: 999;
+  background-color: rgba(0, 0, 0, 0.6);
+  align-items: center;
+  display: none;
+}
+
+.lightbox_holder {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+}
+
+.lightbox_item {
+  min-height: 80vh;
+  /* background: url("../../images/egg-sandwiche.jpg") center/cover fixed no-repeat; */
+  border-radius: 0.3rem;
+  object-fit: contain;
+  align-items: center;
+}
+.image_view {
+  overflow: hidden;
+  border-radius: 0.3rem;
+
+  width: 80%;
+  height: 80vh;
+}
+
+.lightbox_close {
+  color: red !important;
+  font-size: 3rem !important;
+  transition: all 0.3s ease-in-out;
+  cursor: pointer;
+  margin-right: 1rem !important;
+  margin-top: 1rem !important;
+  margin-left: auto !important;
+  background-color: #ccc !important;
+}
+.lightbox_close:hover {
+  filter: brightness(1.2) !important;
+}
+
+.lightbox_control {
+  position: absolute !important;
+  color: brown !important;
+  font-size: 4rem !important;
+  transition: all 0.3s linear;
+  cursor: pointer;
+  background: #eee rgba(0, 0, 0, 0.5) !important;
+}
+.lightbox_control:hover {
+  color: red !important;
+}
+
+.leftBtn {
+  top: 50% !important;
+  left: 0;
+  transform: translateX(60%);
+}
+.rightBtn {
+  top: 50%;
+  right: 0;
+  transform: translateX(-60%);
+}
+
+.show {
+  display: block;
+}

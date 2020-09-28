@@ -1,0 +1,64 @@
+:root {
+  margin: 0;
+  padding: 0;
+}
+.profile {
+  display: flex;
+  justify-content: center;
+}
+
+.profile_banner {
+  position: relative;
+  object-fit: contain;
+  display: flex;
+  height: 350px;
+  width: 90%;
+  border-bottom-left-radius: 0.5rem;
+  border-bottom-right-radius: 0.5rem;
+  justify-content: center;
+  text-align: center;
+}
+
+.profile_content {
+  position: absolute;
+  width: fit-content;
+  right: 0%;
+  bottom: 0%;
+  border-radius: 50%;
+}
+.profile_label {
+}
+
+.cover_photo {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  border: 1px solid #111;
+  outline: none;
+  transition: all 0.3s ease;
+  border-radius: 5px;
+  cursor: pointer;
+  font-weight: 300;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: #aaa;
+  margin-bottom: 2px;
+  margin-left: 2px;
+}
+.cover_photo:hover {
+  background: #111;
+}
+
+.actiondiv {
+  display: flex;
+  padding-top: 1rem;
+  margin: auto;
+  justify-content: center;
+  text-align: center;
+  border: 1px solid red;
+  align-items: center;
+}
+.grid {
+  border: 1px solid blue;
+  object-fit: contain;
+  width: fit-content;
+}

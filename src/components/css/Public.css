@@ -1,0 +1,3 @@
+.hideunhide:focus + moreIcon {
+  display: block;
+}
